@@ -18,3 +18,9 @@ Chocolate Cake: https://sketchfab.com/3d-models/chocolate-cake-10e171454c1148be9
 Cake: https://sketchfab.com/3d-models/cake-bd2b824c98b34bd2a09462524452492c
 
 Birthday Cake: https://sketchfab.com/3d-models/happy-birthday-cake-6e890bcf15fb4c889de6ac1773327978
+
+Small Chocolate Cake: https://sketchfab.com/3d-models/chocolate-cake-7a1c5357e44b4c63993d7842b188047a
+
+Sweets: https://sketchfab.com/3d-models/something-sweet-a78c8c834fd54dbda5c9a8e120050102
+
+Cupcakes: https://sketchfab.com/models/409d1fb2508d46b18ed5689cbfbbba53
