@@ -11,3 +11,5 @@ Pizza oven: https://www.cgtrader.com/free-3d-models/architectural/other/fireplac
 Kaiser Roll: https://www.cgtrader.com/free-3d-models/food/miscellaneous/kaiser-bread-roll
 
 Croissant 1 and 2: https://www.cgtrader.com/free-3d-models/food/miscellaneous/croissants-pbr-3d-pack
+
+Animated Chicken model: https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb
