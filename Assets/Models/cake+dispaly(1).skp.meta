@@ -3,7 +3,17 @@ guid: 52e6e4080453b05409c3b675ab3f960a
 SketchUpImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Blue]'
+    second: {fileID: 2100000, guid: 35acafadc6ce1b242b13a57defe4049e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 67dabcd1f1c617440b3d8334fcc79cd4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 2
@@ -109,5 +119,5 @@ SketchUpImporter:
   selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000
   assetHash:
     serializedVersion: 2
-    Hash: 0e38bec169239102b7b2df630268b8e4
+    Hash: 89f025b587a1b58b01710230663102c2
   fileUnit: 0

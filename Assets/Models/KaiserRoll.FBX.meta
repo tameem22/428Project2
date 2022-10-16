@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Kaiser Bread Roll
-    second: {fileID: 2100000, guid: fcbcc100564d51740afd3c22d2a16b95, type: 2}
+    second: {fileID: 2100000, guid: f06ebaa2a1b356343b5472bcc9849159, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
