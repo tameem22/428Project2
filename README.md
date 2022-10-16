@@ -13,3 +13,7 @@ Kaiser Roll: https://www.cgtrader.com/free-3d-models/food/miscellaneous/kaiser-b
 Croissant 1 and 2: https://www.cgtrader.com/free-3d-models/food/miscellaneous/croissants-pbr-3d-pack
 
 Animated Chicken model: https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb
+
+Egg: https://sketchfab.com/search?features=downloadable&q=egg&type=models
+
+Chocolate Cake: https://sketchfab.com/3d-models/chocolate-cake-10e171454c1148be96e684fcf3b48d3b
