@@ -24,3 +24,7 @@ Small Chocolate Cake: https://sketchfab.com/3d-models/chocolate-cake-7a1c5357e44
 Sweets: https://sketchfab.com/3d-models/something-sweet-a78c8c834fd54dbda5c9a8e120050102
 
 Cupcakes: https://sketchfab.com/models/409d1fb2508d46b18ed5689cbfbbba53
+
+Oven 1: https://sketchfab.com/3d-models/oven-5cd8b393b1134ae28a01e590f36955ce
+
+Oven 2: https://www.cgtrader.com/free-3d-models/furniture/outdoor-furniture/sink-and-oven-barbecue-katia-wood
