@@ -27,4 +27,8 @@ Cupcakes: https://sketchfab.com/models/409d1fb2508d46b18ed5689cbfbbba53
 
 Oven 1: https://sketchfab.com/3d-models/oven-5cd8b393b1134ae28a01e590f36955ce
 
-Oven 2: https://www.cgtrader.com/free-3d-models/furniture/outdoor-furniture/sink-and-oven-barbecue-katia-wood
+Oven 2: https://www.cgtrader.com/free-3d-models/furniture/outdoor-furniture/sink-and-oven-barbecue-katia-wood\
+
+Gumball machine: https://sketchfab.com/3d-models/gumball-machine-5991fd73895f466d8a176460f94f5f12
+
+Toaster: https://sketchfab.com/search?features=downloadable+animated&q=toaster&type=models
