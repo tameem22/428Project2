@@ -3,8 +3,6 @@ Cake Display Case: https://3dwarehouse.sketchup.com/model/ucd624147-038e-4b7c-91
 
 Display Rack https://www.cgtrader.com/free-3d-models/furniture/other/the-display-rack
 
-Pizza oven: https://www.cgtrader.com/free-3d-models/architectural/other/fireplace-and-pizza-oven
-
 Kaiser Roll: https://www.cgtrader.com/free-3d-models/food/miscellaneous/kaiser-bread-roll
 
 Croissant 1 and 2: https://www.cgtrader.com/free-3d-models/food/miscellaneous/croissants-pbr-3d-pack
