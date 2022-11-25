@@ -1,4 +1,8 @@
 # 428Project2
+
+In this Virtual Reality project, I created a scene in the UIC CS building depicting a kiosk. For this kiosk I made a bakery, which is selling bread, sweets, cakes, and even stuff like eggs. You can interact with all the bread as well as some of the desserts/cakes. There is a gumball machine when if the front of it is touched, a gumball appears in front of it which you can interact with. There is also an animated chicken when if touched, an egg appears which is also interactable.
+
+
 Cake Display Case: https://3dwarehouse.sketchup.com/model/ucd624147-038e-4b7c-91d8-bfa152205b0e/Cake-Display?hl=en
 
 Display Rack https://www.cgtrader.com/free-3d-models/furniture/other/the-display-rack
